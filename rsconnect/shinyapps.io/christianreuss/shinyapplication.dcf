@@ -1,0 +1,10 @@
+name: shinyapplication
+title:
+username:
+account: christianreuss
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2573497
+bundleId: 3394055
+url: https://christianreuss.shinyapps.io/shinyapplication/
+when: 1594794789.52468
